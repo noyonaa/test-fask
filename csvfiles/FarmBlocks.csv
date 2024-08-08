@@ -1,0 +1,1461 @@
+﻿farm_id,farm_name,block_id,block_name
+1,1st FO Farm,1,Organic block
+1,1st FO Farm,2,Chaitra
+2,Sumukha,3,A
+3,Bhoomi,5,A
+4,Prakriti,7,A
+4,Prakriti,8,B
+5,Nisarga,6,Block A
+6,Shravasti Farm,4,Block A
+6,Shravasti Farm,62,Block B
+6,Shravasti Farm,63,Block C
+7,Ra farm,9,Eastern Block
+7,Ra farm,10,western block
+7,Ra farm,12,northern block
+7,Ra farm,13,D
+7,Ra farm,35,Block Z
+7,Ra farm,48,S block
+8,Nature Farm,11,A block
+9,Manoj kumar,15,Block A
+10,Deepanshu,14,Block A
+11,Kunal Gahlot,16,Block A
+12,Rajkumar,17,Block A
+13,Manoj Kumar Chauhan Farm,18,Block A
+14,Satish Kumar Farm,19,Block A
+15,Satya Priya farm,20,Block A
+16,Atul Kumar,21,Block A
+17,Chanderboss Farm,22,Block  A
+18,Babita,23,Block A
+19,Shrikishan,24,Block A
+20,Kusum,25,Block A
+21,Sunil Kumar,26,Block A
+22,Deepa,27,Block A
+23,Vijender Chaudhary,28,Block A
+23,Vijender Chaudhary,699,Block B
+24,Gurjit Kaur,29,Block A
+25,Demo Delhi UFCo,30,Block D
+25,Demo Delhi UFCo,31,Block C
+25,Demo Delhi UFCo,32,Block G
+25,Demo Delhi UFCo,33,Block F
+25,Demo Delhi UFCo,125,Block A
+25,Demo Delhi UFCo,126,Block B
+26,Jagbir,38,Block A
+27,UFCo,34,A
+28,Tilak Raj,36,Block A
+29,Surender Singh,37,Block A
+29,Surender Singh,737,Block B
+30,Sukhpal,39,Block A
+31,Mangey Ram,40,Block A
+32,Arun Kumar,41,Block A
+33,Neeraj Chauhan,42,Block A
+34,Saurav  Mange Ram,43,Block A
+35,Shobit Mange Ram,44,Block A
+36,North Delhi Organic,45,Block A
+37,Pankaj Sarda,46,Block A
+38,Aishwarya,47,Block A
+38,Aishwarya,49,B block
+38,Aishwarya,50,c block
+38,Aishwarya,64,D block
+38,Aishwarya,65,E block
+39,Manmohan,76,BLOCK A
+40,Gayathri farm,67,A block
+41,Sumit,61,A
+42,Santram,78,A
+43,Mahavir singh,75,A
+44,Payal,70,Payal
+45,Pom Sharath Patil,51,Block A
+46,POM RANGANATH,52,Block A
+47,POM JAVID,53,Block A
+48,Arati,86,Block A
+49,Rahul tanwar,77,A
+50,Yasin ali,81,A
+51,Jitender,82,A
+52,Ranjit kumar,74,A
+53,Nirwana farm,54,A
+54,Kiran bala,55,A
+55,Radhe shyam,56,A
+56,Ramesh chander,60,A
+57,Kiran pal Singh,59,A
+58,Manjeeta,58,A
+59,Arpit dhama,57,A
+60,Murlidhar saini,66,Block A
+61,Dharani,68,A
+61,Dharani,69,B
+62,Exotic crops,71,Block A
+63,Arnab 2,72,Block A
+64,Shyam kishor,73,A
+65,Ramniwas Saini,79,Block -A
+65,Ramniwas Saini,697,B
+65,Ramniwas Saini,698,A
+66,Pankaj,87,Block A
+67,Ved Pal,84,A
+68,Jagbir Dhama,83,A
+69,Mukesh Saini Farm,80,A
+70,Sahanser pal,85,Block A
+71,Narendra singh,88,A
+72,Girwar,122,Block A
+73,Nawalgarh,89,A
+74,Sumer singh saini,90,A
+75,Subhas Chand,92,A
+76,Virender Singh,94,A
+77,Honshiyar Singh,177,Block A
+78,Ram kumar boran,91,A
+79,Ranjeet singh boran,137,A
+79,Ranjeet singh boran,138,B
+80,Indraj singh boran,139,A
+80,Indraj singh boran,140,B
+81,Gautam saini,120,A
+81,Gautam saini,134,A
+82,Pushpa devi,93,A
+82,Pushpa devi,115,B
+82,Pushpa devi,179,C
+83,Nirmala devi,95,A
+83,Nirmala devi,135,B
+83,Nirmala devi,136,C
+84,Ashok Kumar Saini,96,A
+85,Rajesh Mitharwal,98,A
+86,Partap singh,97,A
+87,Ramswroop saini,178,A
+87,Ramswroop saini,1132,B
+88,Rampersad swami,99,A
+89,Vinod saini,118,A
+89,Vinod saini,141,B
+91,Sumer moond,113,A
+92,Suman Devi,100,A
+92,Suman Devi,457,B
+93,Om parkash sharma,101,A
+94,Dayanand,102,A
+95,Manuvikrant Lamba,103,A
+97,Mahipal Saini,104,A
+99,Shishram Saini,105,A
+100,Naresh saini,114,A
+101,Dharmendra Kumar Saini,106,A
+102,Surandar saini,188,A
+103,Moolchand saini,181,A
+104,Sikar,107,A
+105,Manoj Kumar -2,108,A
+106,Durvesh  Dashrath Kanade,109,Block - A
+106,Durvesh  Dashrath Kanade,453,A
+107,Jitendra Bhikaji Adasare,110,Block - A
+107,Jitendra Bhikaji Adasare,476,A
+108,Vikas Adasare,111,Block - A
+108,Vikas Adasare,112,Block- B
+109,Satywan Ganpat Jadhav,117,Block A
+110,Ganesh Bhor,116,Block -A
+111,Sadanand khokrale,167,A
+111,Sadanand khokrale,205,Block B
+111,Sadanand khokrale,206,Block B
+112,Sunita,119,A
+113,Suresh Kumar Saini,121,A
+114,Nanu Ram Saini,185,A
+116,Mukesh Kumar saini,123,A
+116,Mukesh Kumar saini,124,B
+117,Ammil lal,173,A
+117,Ammil lal,439,B
+118,Subhash Chander,183,A
+119,Vijay kumar,174,A
+119,Vijay kumar,458,B
+120,Anil Kumar farm,128,Anil Kumar
+121,Govind Farm,129,A
+122,Shivanand Chinnavar,127,Block A
+123,Shivappa Karimkopp,143,Block A
+124,Eranna,144,Block A
+124,Eranna,203,Block B
+124,Eranna,204,Block B
+125,Somappa,145,Block A
+125,Somappa,170,Block B
+125,Somappa,171,Block C
+126,Somshekar  Alagundi,156,Block A
+127,Basalingappa Rotti,157,Block A
+127,Basalingappa Rotti,356,B
+128,Ullappa Girannavar,158,Block A
+129,Basavantgouda Hadimani,159,Block A
+129,Basavantgouda Hadimani,305,Block B
+129,Basavantgouda Hadimani,306,Block C
+129,Basavantgouda Hadimani,354,D
+129,Basavantgouda Hadimani,355,E
+130,Prahlad Shigehalli,160,Block A
+130,Prahlad Shigehalli,315,Block B
+130,Prahlad Shigehalli,358,C
+130,Prahlad Shigehalli,359,D
+130,Prahlad Shigehalli,360,E
+130,Prahlad Shigehalli,384,F
+130,Prahlad Shigehalli,385,G
+130,Prahlad Shigehalli,599,H
+131,Mahalinga Shambarekar,162,Block A
+132,Mahesh Chougale,161,Block A
+133,Krishna Sunilkar,163,Block A
+133,Krishna Sunilkar,303,Block B
+133,Krishna Sunilkar,725,Cucumber block
+134,Erappa Desannavar,164,Block A
+134,Erappa Desannavar,301,Block B
+135,Navnath Khebde,403,A Block
+136,Dongre vasti,142,Dongre vasti
+137,Yallappa Hittalmani,165,Block A
+137,Yallappa Hittalmani,218,Block B
+137,Yallappa Hittalmani,304,Block C
+137,Yallappa Hittalmani,372,D
+137,Yallappa Hittalmani,373,E
+137,Yallappa Hittalmani,477,F
+137,Yallappa Hittalmani,572,G
+138,Praveen Kumar Farm,130,A
+139,Rajni Farm,131,A
+140,Basavaraj Masti,146,Block A
+141,Shivanand Masti,147,Block A
+142,Basavant Totagi,148,Block A
+143,Ullappa Malagi,149,Block A
+143,Ullappa Malagi,150,Block B
+144,Lakkappa Malagi,151,Block A
+145,Parasappa Talavar,152,Block A
+145,Parasappa Talavar,153,Block B
+146,Ajjappa Malagi,154,Block A
+147,Shekar,155,Block A
+148,Bright Coffee Estate,132,A block
+148,Bright Coffee Estate,345,Block 1
+148,Bright Coffee Estate,484,Block 2
+148,Bright Coffee Estate,485,Block 3
+149,Rajiv Kumar,133,A
+150,Natish Dhama,190,A
+151,Farida,189,A
+152,Mahesh dhayal,166,A
+152,Mahesh dhayal,437,B
+153,Chandrakant nawale farm,168,A
+154,Nawale farm,191,Block A
+154,Nawale farm,192,Block B
+155,Rajendra Baban Thorat,212,Bock A
+156,D adasare farm,169,Block A
+157,Maruti Inchal,172,Block A
+158,Shree Ram saini,175,A
+158,Shree Ram saini,176,Block B
+159,Murali lal,180,A
+160,Narendra kajala,182,A
+161,Shankar Prasad Saint,186,A
+162,Pankaj Saini,184,A
+163,OM PRAKASH SAINI,187,A
+164,Bhujbal farm,196,Block A
+165,A Khokrale farm,197,Block A
+165,A Khokrale farm,214,Block B
+166,Pratik Khokrale farm,195,Block A
+167,Prakash hande,194,Black A
+168,S farm,193,S blk
+169,Jai farm,198,A block
+169,Jai farm,199,B block
+170,Sayyed farm,200,Block A
+171,Mari selvan Farm,201,Chemical  block
+171,Mari selvan Farm,202,Organic block
+172,Manokaran farm,207,Manokaran block1
+172,Manokaran farm,888,Block A
+172,Manokaran farm,889,Block B
+173,Sundharamoorthy farm,208,moorthy block1
+173,Sundharamoorthy farm,209,Moorthy block 2
+173,Sundharamoorthy farm,927,New block 2
+173,Sundharamoorthy farm,928,New block 3
+173,Sundharamoorthy farm,930,New block 1
+174,Sarath farm,210,Sarath block1
+174,Sarath farm,211,Sarath block2
+175,Manokaran farm,213,Manokaran block
+175,Manokaran farm,346,Block2
+176,Palanisamy farm,220,Palanisamy block
+177,Suruliyappan farm,215,Suruli block 1
+177,Suruliyappan farm,216,Suruli block 2
+178,Durai Raj farm,217,Durai block
+179,Rajesh kannan farm,219,Rajesh block 1
+179,Rajesh kannan farm,922,New block 1
+179,Rajesh kannan farm,923,New block 3
+180,Abraham farm,221,Abraham block 1
+180,Abraham farm,222,Abraham block2
+181,Victor farm,223,Victor block 1
+181,Victor farm,900,Block 1
+181,Victor farm,901,Block 2
+181,Victor farm,902,Block 3
+181,Victor farm,903,Block 4
+181,Victor farm,904,Block 5
+182,Raja farm,224,Raja block 1
+183,Robin farm,225,Robin block1
+184,Anand farm,226,Anand block1
+184,Anand farm,227,Anand block2
+186,Krishna Kumar farm,228,Krishna block1
+186,Krishna Kumar farm,912,New block A
+186,Krishna Kumar farm,913,New block B
+186,Krishna Kumar farm,914,G9 block
+187,Prithviraj farm,229,Prithviraj block
+187,Prithviraj farm,230,Prithviraj b2
+187,Prithviraj farm,898,Banana block
+189,Gopi farm,231,Gopi block1
+189,Gopi farm,232,Gopi block2
+190,Abuthahir farm,233,Abu block1
+191,Abdul farm,234,Abdul b1
+192,Sekar farm,235,Sekar block1
+193,Siddappa Malyagod,236,Bhavi hola
+193,Siddappa Malyagod,424,B
+193,Siddappa Malyagod,478,C
+194,Halappa Antargatti,237,Maddi hola
+195,Shivanand Mayappagol,238,Bhavi hola
+196,Sanjeev Patil,239,Mane mundina hol
+197,Hausabai Nawale farm,240,Block A
+198,Maninga Banashankari,241,Mane hindina hol
+199,Kumar farm,242,Kumar block1
+200,Ram farm,243,Ram block1
+201,Shrishail Sanatti,245,Kere hola
+202,Karthick farm,244,Karthi block1
+202,Karthick farm,899,Banana block
+203,Muthurajan farm,246,Muthu block1
+204,Shrimant Sadalagi,247,Maddi hola
+205,Dhamodharan farm,248,Block 1
+205,Dhamodharan farm,249,Block 2
+206,Suresh Sadalagi,250,Maddi hola
+207,Balamurugan farm,251,Bala block1
+207,Balamurugan farm,252,Bala block2
+207,Balamurugan farm,915,New block 1
+207,Balamurugan farm,921,New block 2
+208,Maruti Sadalagi,253,Maddi hola
+209,Vishnu farm,254,Vishnu block1
+209,Vishnu farm,916,New block 1
+210,Prasad farm,255,Prasad block1
+211,Murali farm,256,Murali block1
+211,Murali farm,257,Murali block2
+212,Chinnadurai farm,258,Chinnadurai b1
+212,Chinnadurai farm,260,Chinnadurai b2
+213,Gomathi farm,259,Gomati b1
+214,Rangasamy farm,261,Rangasamy b1
+214,Rangasamy farm,894,Red banana block
+215,Shanmugam farm,262,New block 1
+216,Rajendran farm,263,Rajendran b1
+216,Rajendran farm,264,Rajendran b2
+217,Nagaraj farm,265,Nagaraj b1
+217,Nagaraj farm,1413,Block A
+218,Xavier farm,266,Xavier b1
+219,Prabhakaran farm,267,Prabhakaran b1
+220,Elangovan farm,268,Elangovan b1
+220,Elangovan farm,924,New block 1
+220,Elangovan farm,925,New block 2
+221,Manikandan farm,269,Manikandan b1
+222,Shanmugavel farm,270,Shanmugam b1
+222,Shanmugavel farm,271,Shanmugam b2
+223,Kalaivanan farm,272,Kalaivanan b1
+223,Kalaivanan farm,926,New block 1
+224,Sahi ram,273,A
+225,Bhagavathi farm,274,Bhagavathi b1
+226,Jeyachandiran farm,275,Jeyachandiran b1
+227,Velladurai farm,276,Velladurai b1
+227,Velladurai farm,277,Velladurai b2
+228,Mani farm,278,Mani b1
+229,Naatrayan farm,279,Naatrayan b1
+230,Saravana farm,280,Saravana b1
+231,Martin farm,281,Martin b1
+231,Martin farm,282,Martin b2
+232,Bahubali Appaji Sadalagi,285,Mane hindina hol
+233,Pranav Kumar farm,283,Pranav b1
+234,Mani kottur farm,284,Mani b1
+235,Gurusamy farm,286,Gurusamy b1
+236,Manivannan farm,287,Manivannan b1
+237,Chinnaswamy farm,288,Chinnaswamy b1
+238,Saravana kottur farm,289,Saravana b1
+239,Baskaran farm,290,Baskaran b1
+240,Gnanamurugan farm,291,Gnanamurugan b1
+241,Armstrong farm,292,Armstrong b1
+241,Armstrong farm,293,Armstrong b2
+242,Selvakumar farm,294,Selva b1
+242,Selvakumar farm,905,RB block 1
+242,Selvakumar farm,906,RB block 2
+242,Selvakumar farm,907,RB block 3
+242,Selvakumar farm,908,RB block 4
+242,Selvakumar farm,918,Pranav kumar b1
+243,Raja sekar farm,295,Raja sekar b1
+244,Pradeep farm,296,Pradeep b1
+244,Pradeep farm,297,Pradeep b2
+244,Pradeep farm,863,A block
+244,Pradeep farm,864,B block
+244,Pradeep farm,865,Block C
+245,O S Radha farm,298,Radha b1
+245,O S Radha farm,299,Radha b2
+246,Radha Krishnan farm,300,Radha Krishnan b
+247,Madhar Sanadi,302,Block A
+248,Nagarajan farm,307,Nagaraj block1
+249,Rajendra Prasad farm,308,Rajendran block1
+250,Kalyana Sundar farm,309,Block 1
+251,Veeraiyan farm,310,Veeraiyan block1
+252,Natraj farm,311,Natraj block1
+253,Gopi erasai farm,312,Gopi block 1
+254,Lakshmanan farm,313,Robust block 1
+255,Sasi kumar farm,314,Block A
+255,Sasi kumar farm,917,Robusta block
+256,Ramesh Masti,316,Block A
+257,Hunchappa Naik,317,BlockA
+257,Hunchappa Naik,382,B
+257,Hunchappa Naik,387,C
+258,Ramappa Masti,318,Block A
+258,Ramappa Masti,357,B
+258,Ramappa Masti,695,BLOCK C
+259,Nagappa,319,BlockA
+260,Kajal Badebhai,320,Block A
+260,Kajal Badebhai,386,B
+261,Khandu Shakumber Chauvha,321,A
+262,Paul Raj farm,322,Paulraj B1
+263,Vasanthan farm,323,Vasanthan b1
+264,Thirunyanam farm,324,Thirunyanam b1
+265,Ramar farm,325,Ramar b1
+266,Mayura farm,326,Mayura b1
+267,Tavanappa Chandugol,327,Danbi hadi hola
+267,Tavanappa Chandugol,425,B
+267,Tavanappa Chandugol,426,C
+267,Tavanappa Chandugol,427,D
+268,Gundappa Ammanagi,337,Mayagade hola
+270,Siddappa Bangari,328,Talagade hola
+271,Basavraj Bangari,329,Eleballi hola
+271,Basavraj Bangari,428,B
+271,Basavraj Bangari,462,C
+272,Kallappa Nagnuri,330,Naduvin patti
+272,Kallappa Nagnuri,361,Mane hindin hola
+274,Mallesh Patil,331,Addapatti
+275,Ningappa Mugulkhod,332,Hallakade hola
+276,Raju Sarapuri,333,Tavar hola
+277,Mallikari kempu,334,Hallimagin patti
+278,Demo,335,A
+279,Demo,336,Block A
+280,Marimuthu farm,338,Marimuthu b1
+281,Suruli farm,339,Suruli b1
+282,Karthikeyan farm,340,Karthi b1
+283,Jeyachandran farm,341,Jeyachandran b1
+284,Naveen farm,342,Naveen B1
+284,Naveen farm,919,A block
+284,Naveen farm,920,B block
+285,Khandu Shakumber Chuhan,343,A
+286,Maruti khokarle,344,A
+287,Ningappa Maangavi,347,Block A
+287,Ningappa Maangavi,573,B
+287,Ningappa Maangavi,581,C
+288,Basha Badebhai,348,A
+288,Basha Badebhai,349,B
+289,Parashuram Masti,350,A
+289,Parashuram Masti,351,B
+290,Somalinga Madumasanvar F,352,A
+290,Somalinga Madumasanvar F,1395,Block A
+291,Sann Maruti,353,A
+292,Rayappa Chandugol,362,Mane mundina hol
+293,Demo Hyderabad training,366,B block
+293,Demo Hyderabad training,370,B
+294,Demo Hyderabad training,367,Block A
+294,Demo Hyderabad training,368,BlockA
+295,Demo hyderabad training,364,A
+296,Demo Hyderabad training,365,Block B
+296,Demo Hyderabad training,371,Block-A
+297,Demo hyderabad training,363,Hydrabad Plot A
+297,Demo hyderabad training,369,B Blok Brinjal
+298,Prakash Neharkar,374,Block A
+299,Basavaraj Gudsh,375,A
+299,Basavaraj Gudsh,471,B
+300,Pratima Jeddi,376,A
+300,Pratima Jeddi,377,B
+300,Pratima Jeddi,378,C
+300,Pratima Jeddi,380,D
+301,G A Patil,379,A
+301,G A Patil,415,B
+302,Pune farm,381,A block
+302,Pune farm,398,B block
+303,Nagappa Bokappanavar,383,A
+304,Maruti Masti,388,A
+304,Maruti Masti,389,B
+305,Nilesh Khokrale,390,A
+305,Nilesh Khokrale,391,B
+306,Nilesh Shankar  Khokrale,392,A
+306,Nilesh Shankar  Khokrale,393,B
+307,Baban kutal,394,A
+307,Baban kutal,395,B
+307,Baban kutal,452,C
+308,Shritej  Rajendra Meher,396,A
+309,Jayavant Darppanavar,397,A
+310,Gaurav Bhise,399,A
+311,Jaysing Bhise,400,A
+312,Gaurav Bhise,402,A Block
+313,Jaysing Bhise,401,A Block
+314,Basavaraj Shiddimar,404,A
+314,Basavaraj Shiddimar,405,B
+315,Shivaji Madumasannavar,406,A
+315,Shivaji Madumasannavar,407,B
+316,Maruti Birananji,408,A
+316,Maruti Birananji,409,B
+316,Maruti Birananji,410,C
+317,Salim Badebhai,411,A
+317,Salim Badebhai,412,B
+318,Jai Farm,413,A block
+319,Santosh Kantilal Godse,414,A
+320,Mangal Yaddalgudd,416,A
+320,Mangal Yaddalgudd,417,B
+320,Mangal Yaddalgudd,1394,Block A
+321,Sumitra Nashipudi,418,A
+321,Sumitra Nashipudi,419,B
+322,Sharada Nashipudi,420,A
+323,Ballavva Biranji,421,A
+324,Lakshmibhai Biranji,422,A
+325,Mallappa Niradi,423,A
+326,Yallappa Sattigeri,429,A
+326,Yallappa Sattigeri,430,B
+327,Naveed Nerli,431,A
+328,Shashikant Madivalar,432,A
+328,Shashikant Madivalar,433,B
+329,Iranna Siriganvkar,434,A
+330,Basu Malyagol,435,A
+331,Mohammad Hussain Nerli,436,A
+332,Suresh Kutal,447,A
+332,Suresh Kutal,467,B
+333,Belagum farm,438,A block
+333,Belagum farm,480,B blk
+334,Kariyavva Hanchimani,440,A
+335,Shantavva Masti,441,A
+336,Channabasappa Totagi,442,A
+336,Channabasappa Totagi,796,Block B
+337,Nirmala Hadimani,443,A
+337,Nirmala Hadimani,444,B
+338,Babaji Bangar,445,A
+339,Jalindar Patade,446,A
+340,Birappa Vadeyar,448,A
+341,Mahadev M Antaragatti,449,A
+342,Balappa Chandugol,450,A
+343,Ashok khokrale,451,A
+344,Vidydhary,460,A
+345,Guljhari lal,454,A
+346,Bhaskar Domase,455,A
+347,Fulsunder Farm,456,Block A
+348,Pankaj Vikas Adsare,461,A
+349,Mool singh,459,A
+350,Ilahi Nerli,468,A
+350,Ilahi Nerli,948,Block B
+351,Satyappa Biranji,463,A
+351,Satyappa Biranji,464,B
+352,Maruti Sattigeri,465,A
+353,Rayappa Tambadi Bangari,466,A
+354,Shivaji  Baban Mule,475,A
+355,Dipak Shantaram Kale,469,A
+355,Dipak Shantaram Kale,472,A
+355,Dipak Shantaram Kale,473,B
+356,Anil Kumar,470,A
+357,Avinash Bangar,474,Block A
+358,Prahlad Rai Saini,479,A
+359,Anil Baban Wagh,482,A
+360,Bhagirath Maharia,578,A
+361,Surendra saini chelasi,481,A
+362,Shankar Malhari Mule,483,A
+363,Coffee estate,486,Block 1
+363,Coffee estate,487,Block 2
+363,Coffee estate,490,Block 3
+364,Elite farm,488,Block 1
+364,Elite farm,489,Block 2
+365,Coffee farm,491,Block 1
+365,Coffee farm,492,Block 2
+365,Coffee farm,493,Block 3
+367,Anand Farm,500,Block A
+368,Jayamma Farms,494,Block A
+369,Manjunath Farms,518,Block A
+370,Nagesh Farms,495,Block A
+371,Nagarjun Farms,496,Block A
+372,Raghunath Farms,497,Block A
+373,Narayan Farm,498,Block A
+374,Lakshman Farm,499,Block A
+375,Ravi farm,501,Block A
+376,Santosh Farm,502,Block A
+377,Anand Farms,503,Block A
+378,Rajanna Farms,504,Block A
+379,Jaganath Farm,505,Block A
+380,Vinod Farm,506,Block A
+381,Venkatraman Reddy Farm,507,Block A
+382,Jagdish Farm,508,Block A
+383,Narayaswamy Farm,509,Block A
+384,Babu Reddy Farm,510,Block A
+385,Sriram Reddy Farm,511,Block A
+386,Praveen Farm,512,Block A
+387,Nagaratnamma Farm,513,Block A
+388,Srinivas Reddy Farm,514,Block A
+389,Venkat Reddy Farm,515,Block A
+390,Reddappa Farms,516,Block A
+391,Vishwanath Farm,517,Block A
+392,Pratham Farm,519,Block Tank Bund
+392,Pratham Farm,520,Block Shed Pakka
+393,Halladase Farm,521,Blk Thogari Seel
+394,DK Farms,522,Block KEB
+395,Ranganathappa Farm,523,Blk Naganna hola
+396,Manjanna Farm,524,Block Mane hinde
+397,Seeni Farm,525,Blk Sidapa bande
+398,Gomardalli Hola,526,Block Karke hola
+399,Krishnajja Hola,527,Blk Krisnap hola
+400,Karehola,528,Block Karehola
+401,Narayanaswamy Farm,529,Block A
+401,Narayanaswamy Farm,582,Tomato farm
+402,Manjunath Farm,530,Block C
+403,Murthy Farm,531,Block A
+404,Praveen Farm,532,Block A
+405,Manjunath Farm1,533,Block A
+406,Abilash Farm,534,Block A
+407,Santosh Farm,535,Block A
+408,Sriramappa Farm,536,Block A
+409,Narayanappa Farm,537,Block A
+410,Sampath Farm,538,Block A
+411,Shankarappa Farm,539,Block A
+412,Raviappa Farm,540,Block A
+413,Krishnamurthy Farm,541,Block A Tomato
+414,Subramani Farm,542,Block A Cap
+415,Vinodh Farm,543,Block A
+416,Girish Farms,544,Block A Cap
+417,Srikanth Farm,545,Block A Cap
+418,Anand Farm,546,Block A Cuc
+419,Manjunath Farm 1,547,Block A ChCa
+420,Pramodh Farm,548,Block A Cap
+421,Manjunath Farm 2,549,Block A Rid
+422,Manjunath Farm 3,550,Block A ChCa
+423,Ramappa Farm,551,Block A
+424,Abhilash Farm 2,552,Block A Tom
+425,Narayana Shetty Farm,553,Block A Cab
+426,Krishnamurthy Farm 1,554,Block A Cu
+427,Venkatappa Farm,555,Block A Cap
+428,Abc,556,Block A
+428,Abc,557,Block B
+429,Yallappa Vibute,558,A
+430,DG Chanappagole,559,A
+431,Dipak hadawale farm,560,Block A
+432,Shekhar gowd,561,Block A
+432,Shekhar gowd,562,Block B
+433,Ch venkataya,566,Block A
+433,Ch venkataya,568,Block B
+434,Manikyam reddy,565,Block A
+434,Manikyam reddy,567,Block B
+435,Ashok,569,Block A
+436,Rama chandra,570,Block A
+436,Rama chandra,656,Block B
+436,Rama chandra,657,Block c
+437,Shankaraiya,563,A
+438,Kavali srisailam reddy,564,Block A
+439,Yellaiah chekkala,571,A
+439,Yellaiah chekkala,585,B
+439,Yellaiah chekkala,637,C
+439,Yellaiah chekkala,638,D
+440,Ganesh Darandale,576,Block A
+440,Ganesh Darandale,1321,B
+441,Vishal,574,A
+442,Narendara,575,A
+442,Narendara,588,B
+442,Narendara,738,C
+443,Sudharson Reddy,577,A
+444,Mantesh maneppagol,939,Block A
+445,Sachin Sadalagi,579,A
+446,Anjaneyallu,580,Block A
+447,R farm,583,A block
+447,R farm,584,B block
+448,Srinivas Reddy,586,A
+448,Srinivas Reddy,587,B
+449,Arun Shete Farm,589,Block A
+449,Arun Shete Farm,1296,Block B
+450,Santosh Bhikaji Bhalerao,655,A
+451,Ramhandra Sayaji Waikar,591,A
+451,Ramhandra Sayaji Waikar,592,B
+452,Rahul Bochare Farm,590,Block A
+452,Rahul Bochare Farm,947,Block B
+453,Pomegranate farm,593,A block
+453,Pomegranate farm,594,B block
+454,Prakash Farm,595,A block
+454,Prakash Farm,596,B block
+454,Prakash Farm,597,C block
+455,Dharshan farm,598,Block 1
+456,Babul lal dhinwa,600,A
+457,Madan lal,601,A
+458,Manajita devi,781,A
+459,Saroj devi,604,A
+460,Sweetha Jonnad,602,A
+461,Manohaari devi,603,A
+462,Srinivasreddy K V Farm,605,Block A
+463,Devaraj Farm,606,Block A
+464,Asha Farm,607,Block B
+465,Prakash Farm,608,Block A
+466,Byarareddy Farm,609,Block A
+467,Jagadish Farm,610,Block A
+468,Balakrishna Farm,611,Block A
+469,Rajshekar Reddy Farm,612,Block A
+470,Sharan Farm,613,Block B
+471,Narayanaswamy K N Farm,614,Block A
+472,Prasad V V Farm,615,Block A
+473,Chandra Farm,616,Block A
+474,K M Manjunath Reddy Farm,617,Block A
+475,K M Harish Farm,618,Block A
+476,Subbanna Farm,619,Block A
+477,Srinath Farm,620,Block A
+478,Srinivas D S Farm,621,Block A
+479,Byreddy Farm,622,Block A
+480,Jayrama Reddy Farm,623,Block A
+481,N Erappa Reddy Farm,624,Block A
+482,Shivashankar K L Farm,625,Block A
+483,Krishnamurthy Farm,626,Block A
+484,Krishna Farm,627,Block A
+485,K Ramesh Farm,628,Block A
+486,Gayathri Farm,629,Block A
+487,Munireddy M Farm,630,Block A
+488,Manjunath M Farm,631,Block A
+489,Anjaneya Reddy Farm,632,Block A
+490,Murali Farm,633,Block A
+491,Santosh hande farm,634,Block A
+492,Seema Hande Farm,635,Block A
+493,Aswad Thorave Farm,636,BlockA
+493,Aswad Thorave Farm,1433,B
+494,Vital reddy,640,A
+495,Narshima reddy,639,A
+496,Anjappa Farm,641,Block A
+497,Muniraj Farm,642,Block A
+498,Manogar Farm,643,Block A
+498,Manogar Farm,1051,Block A
+499,Madevappa Farm,644,Block A
+500,Amanda Farm,645,Block A
+501,Ganesh Farm,646,Block A
+502,Muniraj  VP Farm,647,Block A
+503,Veeresh Farm,648,Block A
+504,Kankaraj Farm,649,Block A
+505,Ranganath Farm,650,Block A
+506,KR Farm,651,Block A
+506,KR Farm,837,Block A
+507,Nagaraj Farm,652,Block A
+508,Siva Farm,653,Block A
+509,Sri Farm,654,Block A
+510,Umesh,658,Block A
+511,Ashok,659,Block A
+512,Murali Farm 2,660,Block A
+513,Nagesh Farm,661,Block A
+514,Chintharappa Farm,662,Block A
+515,Sampath Farm,663,Block A
+516,Puttamma Farm,664,Block A
+517,Prakash Farm,665,Block A
+518,Ashwathappa Farm,666,Block B
+519,Arun Farm,667,Block B
+520,Pawan Farm,668,Block B
+521,Sri Farm 2,669,Block B
+521,Sri Farm 2,709,Block B
+522,Yellappa Farm,670,Block A
+523,Moorthy Farm,671,Block B
+524,Murali Farm,672,Block B
+525,Madhu Farm,673,Block B
+526,Harsha Farm,674,Block B
+527,Manjunath Farm,675,Block B
+528,Paillyya,676,Block A
+529,Baramappa Chandugol,677,A
+530,Sanjay Nivrutti Sonwane,680,Block A
+530,Sanjay Nivrutti Sonwane,681,Block B
+531,Shivaji Sopan Sonawane,684,A
+531,Shivaji Sopan Sonawane,1309,Block B
+532,Sachin Dilip Sonavane,682,A
+533,Demo Farm,678,Block A
+533,Demo Farm,679,BLOCK B
+533,Demo Farm,941,Master Plot
+534,Manoj Karbhari Walve,685,A
+534,Manoj Karbhari Walve,1310,Block B
+535,Sandeep Karbhari Walve,683,A
+535,Sandeep Karbhari Walve,1303,B
+536,Yogesh Dattatray Pawar,686,A
+537,Vitthal Bhaurav Sonawane,890,A
+538,Rahul Laxman wakchaure,688,A
+539,Sreeniraju,689,A
+540,Istari,690,A
+540,Istari,691,B
+541,Sawer mal,692,A
+542,Balesh Ramgonatti Farm,693,Mane hindina hla
+542,Balesh Ramgonatti Farm,940,Block A
+542,Balesh Ramgonatti Farm,1411,mane hindina hol
+543,Laxmikant Belagali Farm,694,Block A
+544,Raju,696,A
+545,Viresh,736,Block A
+546,Ramaiyah Farm,700,Block A
+547,Sivaraj Farm,701,Bl9ck A
+548,Nagaraj Farm 1,702,Block A
+549,Yellappa Farm 1,703,Block A
+550,Jagannath Farm,704,Block A
+551,Sridar farm,705,Block A
+552,Pawan farm 1,706,Block A
+553,Ramu farm,707,Block B
+554,Govinda farm,708,Block B
+555,Manjunath farm 1,1136,Block B
+556,Ashok farm,710,Block B
+557,Senkarappa farm,711,Block A
+558,Narayanamma Farm,712,Block A
+559,Nagaraj farm,713,Block A
+560,Choudreddy farm,714,Block A
+561,Ramesh G farm,715,Block A
+562,H Narayanaswamy farm,716,Block A
+563,Venkataram Farm,717,Block A
+564,Devaraj H farm,718,Block A
+565,Manjunath Kolatur farm,719,Block A
+566,Vasu farm,720,Block A
+567,Sujay farm,721,Block A
+568,Suvarna farm,722,Block A
+569,Jayanna farm,723,Block A
+570,Gopal farm,724,Block A
+571,Tejas Shivaji Mule,726,A
+572,Erra Srisailam,727,A
+572,Erra Srisailam,732,B
+573,Siddharood Pujeri farm,728,Block  samholgol
+574,Sunita devi,729,A
+575,Jugal kishor,730,Jugal kishor
+576,Demo Farm,731,Block A
+577,Kiran Balasaheb Hase,733,A
+577,Kiran Balasaheb Hase,734,B
+578,Anil kumar,735,Block A
+579,Mukund reddy,739,Block A
+580,Srinivas farm,740,Block B
+581,Jayaraj farm,741,Block A
+582,Muni farm,742,Block A
+583,Yeswanth farm,743,Block A
+584,Naveen farm,744,Block A
+585,Narayana farm,745,Block A
+586,Manjunath onnupalli farm,746,Block A
+587,Krishna farm,747,Block C
+588,Aswath farm,748,Block C
+589,Renga farm,749,Block C
+590,Siva kollapalli farm,750,Block C
+591,Madesh farm,751,Block A
+592,Sasi farm,752,Block A
+593,Harish farm,753,Block A
+594,Manchala farm,754,Block A
+595,Sambath farm,755,Block B
+596,Nanja farm,757,Block B
+597,Sudhakar farm,756,Block A
+598,Venkatesh Reddy farm,758,B block
+599,Ravi farm,759,Block B
+600,N Ramesh farm,761,A block
+601,Ravindra farm,760,Block B
+602,Ram farm,762,Block A
+603,Pramod farm,763,A block
+604,Madhanagiri farm,764,Block A
+605,Srinivas Bairamanga farm,765,Block A
+606,Anu farm,766,Block A
+607,Srinath Hodali farm,768,B block
+608,Muniappa farm,767,Block A
+609,Narayanappa farm,769,Block A
+610,Nagaraj Dimbal farm,770,A block
+611,Rama farm,771,Block A
+612,Sakkappa farm,772,Block C
+613,Jai farm,773,Block C
+614,Ashwatgouda farm,774,A block
+615,Krishnamoorthy farm,775,Block C
+616,Srinivas KA farm,776,A block
+617,Manjunath kudivant farm,777,A block
+618,K L Manjunath farm,778,B block
+619,Nagesh farm,779,B block
+620,Nalini farm,780,B block
+621,Anil pandurang shelke,785,A
+621,Anil pandurang shelke,1422,Block B
+622,pralhad Narayan Kanawade,815,A
+623,Suresh Bhise farm,782,Block A
+623,Suresh Bhise farm,943,Block B
+623,Suresh Bhise farm,945,Block C
+624,Govind Waykar Farm,783,Block A
+625,Mallareddy,784,A
+625,Mallareddy,788,B
+626,Shrikishna Sonawane,825,A
+626,Shrikishna Sonawane,1360,B
+627,Satish Sakhahari Gholap,789,A
+627,Satish Sakhahari Gholap,1012,B
+628,Adursha Farm,786,A block
+629,Janga reddy,787,A
+630,Omkar Mahesh Kolhe,801,A
+631,Prasad srinivas,790,A
+631,Prasad srinivas,802,0
+632,subhash,791,A
+632,subhash,792,B
+633,Shrikant Farm,793,A block
+634,Raja Totagi Farm,794,Block A
+635,Ajappa Totagi Farm,795,Block A
+635,Ajappa Totagi Farm,799,Block B
+636,Suresh Tulaji Farm,798,Block A
+637,Arun Niradi Farm,800,Block A
+638,Rajkumar Bhor farm,896,BlockA
+639,Vikas Jadhav Farm,797,Block A
+640,Vijay,803,A
+641,Baramani Shapurkar Farm,804,Block A
+642,Prakash etagi Farm,805,Block A
+643,Viddya etagi Farm,806,Block A
+644,Sadanand etagi Farm,807,Block A
+645,Mallanayak bhavi Farm,808,Block A
+646,Sachin Mane Farm,809,Block A
+647,Shripal Singh Farm,810,A
+648,Pradeep kumar Farm,811,A
+649,Babu Singh Farm,814,A
+650,Ajay Singh Farm,812,A
+650,Ajay Singh Farm,813,B
+651,Sharvan kumar,819,A
+652,Ramavtar Rad,816,A
+653,Banwari LAl Jangid,820,A
+654,Sheesh Ram,818,A
+655,Jaideep Singh shekhawat,817,A
+656,Ankit Chauhan,821,Block A
+657,Ch Venkataya,822,A
+658,Jagbir singh,823,Block A
+659,Vikram Dilip kanawade,1003,A
+659,Vikram Dilip kanawade,1437,B
+660,Akash Yeshvant Hase,1373,Block A
+661,Kamlesh Baburao Landge,1004,A
+661,Kamlesh Baburao Landge,1317,Block B
+661,Kamlesh Baburao Landge,1378,Block C
+662,Somanath keru Landge,1005,A
+663,Nitin Pundlik Gaikwad,1008,A
+663,Nitin Pundlik Gaikwad,1011,B
+664,Arun Dattatray Varpe,1379,Block A
+665,Dnyandeo Sambhu Rahane,953,A
+666,Dnyaneshwar sonawane,1010,A
+667,Anil Vishnu Khatode,824,A
+668,Chandra Farm,827,Block B
+669,Manjunath JeemangalaFarm,828,Block B
+670,Thimrayappa Farm,829,Block A
+671,Girish Farm,830,Block C
+672,Sanjappa Farm,831,A block
+673,Narayanappa Farm,832,Block A
+674,Murugesh Farm,833,Block C
+675,Suresh Farm,834,Block C
+676,Santhamma Farm,835,Block B
+677,Yellamma Farm,836,Block B
+678,Krishna Farm,1137,Block A
+679,Prashanth Farm,838,Block A
+680,Siva Kumar Farm,839,Block C
+681,Mari reddy Farm,840,Block B
+682,Pillappa Farm,841,Block B
+683,Sasikala Farm,842,Block B
+684,Ram reddy,843,Block C
+685,Naveen Farm,844,Block C
+686,Subburama Farm,845,Block C
+687,Nagaraj Kothapalli Farm,826,Block B
+689,Nagaraj Farm,846,Block A
+690,Ramesh Farm,847,Block A
+691,Prakash Farm,848,Block A
+692,Govinda  Farm,849,Block A
+693,Raja Farm,850,Block A
+694,Yellappa Farm,851,Block B
+695,Yellappa Farm 2,852,Block B
+696,Anand Farm,853,Block A
+697,Nanjappa M Farm,854,Block B
+698,Nanjappa Farm,855,Block B
+699,Ramesh Farm2,856,Block A
+700,Babu Farm,857,Block A
+701,Manju Farm,858,Block B
+702,Narayanappa NAgraha Farm,859,Block A
+703,Srinivas Vpuram Farm,860,Block A
+704,Madesh Vpuram Farm,861,Block A
+706,Anand Reddy Farm,1246,Block A
+708,Narayanappa Farm2,862,Block A
+709,Laxmamma Farm,869,Block A
+710,Venkatesh B Farm,870,Block A
+711,Reddeppa Farm,871,Block A
+712,Gangi Reddy Farm,872,Block A
+713,Shiva Reddy Farm,873,Block A
+714,Suresh Reddy Fram,868,Block A
+715,K M choudreddy Farm,867,Block A
+716,Nagaratnamma MPalliFarm,866,Block A
+717,Kempanna Manappagol Farm,874,Block A
+718,Anand gowda farm,875,A block
+719,N Srinath farm,876,A block
+720,K V Byreddy farm,877,A block
+721,Yellappa farm,878,A block
+722,Nithin farm,879,A block
+723,K R Manjunath farm,880,A block
+724,Chikkreddeppa farm,881,A block
+725,Venkatappa farm,882,A block
+726,Nandini reddy farm,883,A block
+727,Janardan farm,884,A block
+728,Murthy farm,885,A block
+729,Srinivas t v farm,886,A block
+730,Perumalsamy farm,887,Banana block
+731,Ramar farm seepalakottai,891,Red banana block
+731,Ramar farm seepalakottai,892,G9 block
+732,Rajakumar farm,893,Banana block
+732,Rajakumar farm,1319,Block B
+733,Bhimsen Saini,895,A
+734,Sudhir saini,897,A
+734,Sudhir saini,1457,B
+735,UMA RAM,909,A
+736,M Niradi Farm,910,Block A
+737,Shridar Patil Farm,911,Block A
+738,Bahubali Chandugol Farm,929,Block A
+739,Balesh Karigar Farm,932,Block A
+740,Lakshman Karigar Farm,933,Block A
+741,Ramshidxd Farm,934,Block A
+742,Dundappa Bhavi Farm,935,Block A
+743,Hanuman Farm,936,Block A
+745,Nagaraj Farm,937,Block A
+746,Vinod Farm,931,A block
+747,Akshay Rajendra Bhor,938,A
+747,Akshay Rajendra Bhor,1418,B
+748,Shantaram Tanaji Bhor,944,A
+748,Shantaram Tanaji Bhor,1419,B
+749,Shri Ram Singh,969,A
+750,Kishan singh malsingh,970,A
+751,Kanifnath Bhor Farm,946,Block A
+751,Kanifnath Bhor Farm,1417,B
+752,Erra manikyam,1086,Block A
+753,Jameel Ahmed farm,956,A
+753,Jameel Ahmed farm,1441,B
+754,Lokesh Singh Farm,958,A
+754,Lokesh Singh Farm,965,B
+754,Lokesh Singh Farm,1439,C
+754,Lokesh Singh Farm,1440,A
+755,Lavkesh kumar Farm,959,A
+756,Neemisha Farm,955,A
+757,Pushpendra Kumar Farm,957,A
+758,Badlu Khan Farm,960,A
+759,Pratap Singh Farm,954,A
+760,Asif farm,961,A
+761,Manoj Kumar Farm,962,A
+762,Rajendra Singh Farm,963,A
+763,Munni farm,964,A
+764,Rakesh Kumar,968,A
+765,Raju Pujari Farm,942,Block A
+766,Savitri Shapurkar Farm,949,Block A
+767,Shivaji sampat Phatangre,1009,A
+768,Madhav Sakharam Hase,1007,A
+769,Sadashiv Maneppagol Farm,950,Block A
+770,Dundappa badadavr Farm,951,Block A
+771,Siddharood Patil Farm,952,Block A
+772,Nivrutti Sakharam Hsae,1381,Block A
+773,Sandip P Sonawane,1292,A
+774,Akshay Saravade Farm,966,Block A
+775,Ranjeet Sherkar Farm,967,Block A
+776,Rajneesh kumar,971,Block A
+777,Demo Farm,972,Block A
+778,Amar jyoti,973,Block A
+778,Amar jyoti,974,Block B
+778,Amar jyoti,975,Block C
+779,Amaresh farm,976,Block B
+780,Chinnammaa farm,977,Block A
+781,Sasikala farm barandur,978,Block A
+782,Davender,979,Block A
+783,Narayanappa farm R palli,980,Block C
+784,Sri farm P garam,981,Block c
+785,Mani farm,982,Block B
+786,Siva farm,983,Block B
+787,Akshata farm,984,Block A
+788,Venkatalakshammaa farm,985,Block B
+789,K nagaratnamma farm,986,Block A
+790,Yashwant farm,987,Block A
+791,Prakash farm,988,Block A
+792,Shilpa farm,989,Block A
+793,Ramakka farm,990,Block A
+794,Paravatamma D ralli farm,991,Block A
+795,Kalpana farm,992,Block A
+796,Swathi farm,993,Block A
+797,Prabhavathamma farm,994,Block A
+798,Kavya farm,995,Block A
+799,Bagyamma farm,996,Block A
+800,Jayamma k m farm,997,Block A
+801,Sushila farm,998,Block A
+802,Uma farm,999,Block A
+803,Ck Harish farm,1000,Block A
+804,Manu farm,1001,Block A
+805,Ramachandra farm,1002,Block A
+806,Yellapa Kelaginmani Farm,1006,Block A
+807,jijaba Nivrutti  Varpe,1013,A
+808,Sanjay Trimbak Varpe,1074,A
+809,Dhanraj Haribhu Landge,1288,A
+810,Delhi,1014,Block A
+811,Satish Annasaheb Landge,1133,A
+811,Satish Annasaheb Landge,1298,B
+812,Sanjay Gawade Farm,1015,Block A
+813,Akkamma Farm,1016,Block A
+814,Basavaraj Farm,1017,Block A
+815,Umesh Farm,1018,Block A
+816,Mahesh farm,1019,Block A
+817,Narayanappa Farm A,1020,Block A
+818,Sujatha Farm,1021,Block A
+819,Chandra farm A,1022,Block A
+820,Madesh farm,1023,Block A
+821,Gopal farm,1024,Block A
+822,Ramasamy Farm,1025,Block A
+823,Bala Farm,1026,Block A
+823,Bala Farm,1145,Block A
+824,Raja farm,1027,Block A
+825,Jayaram farm,1028,Block A
+826,Narasimha farm,1029,Block A
+827,Mamtha farm,1030,Block A
+828,Jaya farm,1031,Block A
+829,Sampangi farm,1032,Block C
+830,Manju farm,1033,Block C
+831,Srinivas farm A,1034,A block
+832,Umesh farm,1035,A block
+833,Raman farm,1036,A block
+834,Murugan farm,1037,A block
+835,Gopi farm,1038,A block
+836,Jothi farm,1039,B block
+837,Sowmiya farm,1040,A block
+838,Venktaswamy farm,1041,B block
+839,Murali farm,1042,A block
+840,Anjappa farm,1043,A block
+841,Mahesh farm A,1044,A block
+842,Mallesh farm,1045,B block
+843,Muniraj farm,1046,A block
+844,Ramachandra farm,1047,A block
+845,Rathnamma farm,1048,A block
+846,Muniraj farm A,1049,A block
+847,Shekar farm,1050,A block
+848,Srinivas farm,1052,A block
+849,Nagamani farm,1053,B block
+850,Suvarna farm A,1054,A block
+851,Badregouda farm,1055,B block
+852,Mukesh Kumar Saini,1068,A
+853,K g Manjunath farm,1056,A block
+854,Shashikala farm,1057,A block
+855,Nirmala farm,1058,A block
+856,Shardamma farm,1059,B block
+857,Mamata farm,1060,A block
+858,Goutami farm,1061,A block
+859,Veena farm,1062,A block
+860,Ashok farm,1063,A block
+861,Abhishek farm,1064,A block
+862,Ashok farm A,1065,A block
+863,Srinivas K S farm,1066,A block
+864,Ranganath farm,1067,A block
+865,Bharth Uppar Farm,1069,Block A
+866,Prashant Patil Farm,1070,Block A
+867,Babu housati Farm,1071,Block A
+868,Fateh Khan,1072,A
+869,Sunil Doke Farn,1073,Block A
+869,Sunil Doke Farn,1301,B
+870,Somnath Keshav Gunjal,1124,A
+871,Hyd farm,1075,Block A
+872,Aryan Farm,1076,Block A
+873,Bhagwat Haribhau Sonawan,1291,A
+874,Rangappa Farm,1077,Block A
+875,Raju D C farm,1078,Block A
+876,Riaz farm,1079,Block A
+877,Siddalinga farm,1080,Block A
+878,Magadi Anjanappa farm,1081,Block A
+879,Somashekhar farm,1082,Block A
+880,Rangaswami farm,1083,Block A
+881,Rangaswami farm A,1084,Block A
+882,Mandakki Anjappa farm,1085,Block A
+883,Mandakki Chowdappa farm,1087,Block A
+884,Halappa A K farm,1088,Block A
+885,Chowdappa farm,1089,Block A
+886,Giddappa Chowdappa farm,1090,Block A
+887,Ramesh farm,1091,Block A
+888,Chowdamma farm,1092,Block A
+889,Chowdappa farm A,1093,Block A
+890,Papanna farm,1094,Block A
+890,Papanna farm,1095,Block A
+891,Sahi ram,1102,Sahi ram
+892,Rudramma farm,1096,Block A
+893,Suresh T V farm,1097,Block A
+894,Dharmveer,1101,Dharmveer
+895,Nagappa H farm,1098,Block A
+896,Gurumurtty farm,1099,Block A
+897,Obamma farm,1100,Block A
+898,Chowdamma farm A,1103,Block A
+899,Chowdesh farm,1104,Block A
+900,Chowadamma farm,1105,Block A
+901,Rehka farm,1106,Block A
+902,Manjunath farm,1107,Block A
+903,Hanumattappa farm,1108,Block A
+904,Kotresh farm,1109,Block A
+905,Pradeep farm,1110,Block A
+906,Mallanaik farm,1111,Block A
+907,Anjinamma farm,1112,Block A
+908,Ganesh farm,1113,Block A
+909,Deenesh farm,1114,Block A
+910,Marutinaik farm,1115,Block A
+911,Rathodnaik farm,1116,Block A
+912,Venkatesh G farm,1117,Block A
+913,Papanna farm A,1118,Block A
+914,Prembhai farm,1119,Block A
+915,Munnabhai farm,1120,Block A
+916,Basavaraj farm,1121,Block A
+917,Krishnamurthy farm,1122,Block A
+918,Abhishek Dhama,1123,Block A
+919,Mukesh Kumar,1138,A
+920,Suresh Kumar,1139,A
+921,Kalish Kumar,1290,A
+921,Kalish Kumar,1295,B
+922,Ramkaran singh,1140,A
+923,Gajendra Singh,1141,A
+924,Suraj Mal,1142,A
+925,Rohitash Yadav,1143,A
+926,Parasappa L Doddalakanvr,1125,Mane hola
+927,Satteppa B Alloshi,1126,Mane mindin hola
+928,Gangadhar Karigar,1127,Burinpatti
+929,Satish Manepagol,1128,Bavi patti
+930,Ramesh madihalli,1130,Busstand hola
+931,Satteppa Manepagol,1129,Mabe kade hola
+932,Adiveppa sattigeri,1131,Gater nela
+933,Sandip Sonawane,1293,A
+934,Priya Anil Wagh,1134,A
+934,Priya Anil Wagh,1416,B
+935,Ashok Tulaji Farm,1135,Block A
+936,Hari Ram,1144,A
+937,Amit Prakash Mahabare,1249,A
+938,Ketan Bhaskar,1248,A
+939,Kailas Bhujbal,1247,A
+940,Murthiappa,1146,Block A
+941,Rahul uday bhor,1147,A
+942,Manjunath Farm 1,1148,Block A
+943,Basavaraj Farm 1,1149,Block A
+944,Sakamma Farm,1150,Block A
+945,Gangadhar Farm,1151,Block A
+946,Shivakumar farm,1152,Block A
+947,Santosh farm,1153,Block A
+948,Suneetamma Farm,1154,Block A
+949,Jaramali Basavaraj Farm,1155,Block A
+950,Ratnamma Farm,1156,Block A
+951,Ajjapap Farm,1157,Block A
+952,Parsappa Farm,1158,Block A
+953,Shivanaik Farm,1159,Block A
+954,Nagarajnaik Farm,1160,Block A
+955,Shekarnaik Farm,1161,Block A
+956,Ambrishnaik Farm,1162,Block A
+957,Kerynaik Farm,1163,Block A
+958,Omkarnaik Farm,1164,Block A
+959,Manjanna Farm,1165,Block A
+960,Sidanna Farm,1166,Block A
+961,Rangappa Farm 1,1167,Block A
+962,Hanmatappa Farm,1168,Block A
+963,Gaviyappa Farm,1169,Block A
+964,Jayappa Farm,1170,Block A
+965,Kenchappa Farm,1171,Block A
+966,Tippanna Farm,1172,Block A
+967,M Ramesh Farm,1173,Block A
+968,Parasappa Farm,1174,Block A
+969,Pooja Farm,1175,Block A
+970,Uaggi Anjanappa Farm,1176,Block A
+971,Ankita Farm,1177,Block A
+972,Vijaya Farm,1178,Block A
+973,Hanmatappa Farm 1,1179,Block A
+974,Prasanna Farm,1180,Block A
+975,Nakulsaba Farm,1181,Block A
+976,Manju S kote farm,1182,Block A
+977,Bhimanna farm,1183,Block A
+978,Maruti Farm,1184,Block A
+979,B Ramappa Farm,1185,Block A
+980,Sharadamma Farm,1186,Block A
+981,Pakirappa Farm,1187,Block A
+982,Lanakayappa Farm,1188,Block A
+983,Anjappa farm,1189,Block A
+984,Ningappa Farm,1190,Block A
+985,Bagyappa Farm,1191,Block A
+986,Narashimha Farm,1192,Block A
+987,Uggi Bhimanna Farm,1193,Block A
+988,Anjappa Farm 1,1194,Block A
+989,Manjanna Farm 1,1195,Block A
+990,Shashi Farm,1196,Block A
+991,Kotresh Farm 1,1197,Block A
+992,Karibasappa Farm,1198,Block A
+993,Akkamma Farm,1199,Block A
+994,G I Jayappa Farm,1200,Block A
+995,Boranna Farm,1201,Block A
+996,Sangeeta Farm,1202,Block A
+997,Sidappa Farm,1203,Block A
+998,Guru Farm,1204,Block A
+999,Prasanna Farm 1,1205,Block A
+1000,Maruti Farm 1,1206,Block A
+1001,Shivanaik Farm 1,1207,Block A
+1002,Venu Farm,1208,Block A
+1003,Ajaya Patil Farm,1209,Block A
+1004,G Venktesh Farm,1210,Block A
+1005,Vasantnaik Farm,1211,Block A
+1006,Rajappa Farm,1212,Block A
+1007,Manajunath G H Farm,1213,Block A
+1008,Siddanaik farm,1214,Block A
+1009,Nagendranaik Farm,1215,Block A
+1010,Timmanaik Farm,1216,Block A
+1011,Kumaranaik Farm,1217,Block A
+1012,Bharat Farm,1218,Block A
+1013,Samadappa Farm,1219,Block A
+1014,Annappanaik Farm,1220,Block A
+1015,Sujata Farm,1221,Block A
+1016,Sokkerajappa Farm,1222,Block A
+1017,Lokappa Farm,1223,Block A
+1018,Arjunappa Farm,1224,Block A
+1019,Adarsha Farm,1225,Block A
+1020,Halamna Farm,1226,Block A
+1021,Chandrappa G Farm,1227,Block A
+1022,Channappa Farm,1228,Block A
+1023,Venkatachalappa Farm,1229,Block A
+1024,Mahantesh Farm,1230,Block A
+1025,Laxmidevi Farm,1231,Block A
+1026,Kalavathi Farm,1232,Block A
+1027,Sujatha Farm,1233,Block A
+1028,S Ramesh farm,1234,Block A
+1029,Sandesh Farm,1235,Block A
+1030,Jaldamna Farm,1236,Block A
+1031,Sridevamma Farm,1237,Block A
+1032,H A Sunitha Farm,1238,Block A
+1033,Danajaya Farm,1239,Block A
+1034,D K Suma Farm,1240,Block A
+1035,Thippeswamy Farm,1241,Block A
+1036,H M Ravi Farm,1242,Block A
+1037,Shivakumar Farm 1,1243,Block A
+1038,Siddesha Farm,1244,Block A
+1039,Jayanna Farm,1245,Block A
+1040,Bhagyamma Farm,1250,Block A
+1041,Umesh S Farm,1251,Block A
+1042,Honnesha Farm,1252,Block A
+1043,Manjunath Farm 2,1253,Block A
+1044,Kumarswamy Farm,1254,Block A
+1045,Sharath Farm,1255,Block A
+1046,Pandappa Farm,1256,Block A
+1047,Antharaju Farm,1257,Block A
+1048,Gurumurty Farm,1258,Block A
+1049,Kanthraju Farm,1259,Block A
+1050,Ramanna Farm,1260,Block A
+1051,Srinivas Farm,1261,Block A
+1053,Girisha Farm,1262,Block A
+1054,Kavita Farm,1263,Block A
+1055,Chandramma Garm,1264,Block A
+1056,Noogamma Farm,1265,Block A
+1057,Lingaraju Farm,1266,Block A
+1058,Sushilamma Farm,1267,Block A
+1059,Gangamma Farm,1268,Block A
+1060,Savitamma M Farm,1269,Block A
+1061,Rajamma Farm,1270,Block A
+1062,Eshwarappa Farm,1271,Block A
+1063,Shivanna Farm,1272,Block A
+1064,Poothalingappa Farm,1273,Block A
+1065,Govindappa Farm,1274,Block A
+1066,Ramesh Farm 1,1275,Block A
+1067,Shivanna Farm 1,1276,Block A
+1068,Renukamma Farm,1277,Block A
+1069,Devaraju Farm,1278,Block A
+1070,Devaraju Farm 1,1279,Block A
+1071,Lakshmi Farm,1280,Block A
+1072,Shivakumar Farm 2,1281,Block A
+1073,Ranganatappa Farm,1282,Block A
+1074,Ranganath Farm,1283,Block A
+1075,Kariyappa Farm,1284,Block A
+1076,Shivalingappa Farm,1285,Block A
+1077,Chidanand farm,1286,Block A
+1078,Krishnamurthy farm 2,1287,Block A
+1079,Vikas,1434,A
+1080,Basavraj bagi,1289,hadi hola
+1081,Munga Ram,1294,A
+1082,Hemant kale farm,1297,Block A
+1083,Marimuthu,1299,Block A
+1083,Marimuthu,1300,Block B
+1084,Ganesh Nivrutti Varpe,1302,A
+1085,Vijay kumar,1304,A
+1086,Sidharth Gaykwad,1305,A
+1087,Rajendra Yadav Wakchaure,1306,A
+1088,Atul Chauhan,1307,A
+1089,Rinku Chauhan,1308,A
+1090,Erappa ramshette farm,1311,Block A
+1090,Erappa ramshette farm,1396,Block B
+1091,Mahantesh ramshette Farm,1312,Block A
+1092,Shivu ramshette Farm,1313,Block A
+1092,Shivu ramshette Farm,1397,BlockbB
+1093,Faruk mukandar Farm,1314,Block A
+1094,Ramu kechnnavar Farm,1315,Block A
+1095,Gowshab mukandar Farm,1316,Block A
+1096,Gaju ramshette Farm,1318,Block A
+1097,Vijay Singh,1322,A
+1098,Omprakash saini,1323,A
+1099,Onkar Mal saini,1324,A
+1100,Kaushlya Devi,1320,A
+1101,Digamber Phatangare Farm,1325,Block A
+1101,Digamber Phatangare Farm,1326,Block B
+1102,Vijay Sonawane Farm,1327,Block A
+1102,Vijay Sonawane Farm,1328,Block B
+1103,Kailas Wale Farm,1329,Block A
+1103,Kailas Wale Farm,1330,Block B
+1104,Balasaheb Bhor Farm,1331,Block A
+1105,Pramod Keru Nawale,1332,A
+1106,Vivek Vishwnath Sonavane,1333,A
+1107,Santosh Wale Farm,1334,Block A
+1107,Santosh Wale Farm,1438,B
+1108,Laxman Wale Farm,1335,Block A
+1108,Laxman Wale Farm,1421,Block B
+1109,Satish Gopale Farm,1336,Block A
+1110,Nivrutti wale Farm,1337,Block A
+1111,Subhash Wale Farm,1338,Block A
+1112,Dnyaneshwar Wale Farm,1339,Block A
+1113,Govind Bhoknal Farm,1340,Block A
+1114,Bhaskar Pawar Farm,1341,Block A
+1115,Balasaheb Wale Farm,1342,Block A
+1116,Sachin Hase Farm,1343,Block A
+1117,Jayesh Waman Farm,1344,Block A
+1118,Savanth anappa farm,1345,Maned hola
+1119,Manjunath Farm,1346,Block A
+1120,Prashanth Farm,1347,Block A
+1121,Narashimha Murthi Farm,1349,Block A
+1122,Shivakumar Farm,1348,Block A
+1123,Prashanth Farm,1350,Block A
+1124,Madhav hase Farm,1351,A
+1125,Surender Kumar,1352,A
+1126,Dinesh Kumar,1353,A
+1127,Mahesh patil Farm,1354,Hosur hula
+1128,Sangita Kailsh Bhujbal F,1355,A
+1129,Sangita Bhujbal Farm,1356,A
+1130,Shrawan Kumar,1357,A
+1131,Kalpana Rohidas Pawar,1358,A
+1132,Mantesh Kotagi Farm,1359,Malal hola
+1133,Ramotar Saini,1364,A
+1134,Rajendra Kavde farm,1361,A
+1135,Sandip Harichandra bhor,1362,A
+1136,Kamlesh kumar,1451,A
+1137,Jagram,1385,A
+1138,Kiran Kumar Farm,1363,Block A
+1139,Chandrasekar Farm,1365,Block A
+1140,Gourishankar Saini,1366,A
+1141,Ashok Kumar Saini Jhajha,1367,A
+1142,Sharda Devi,1368,A
+1143,Narender kumar,1369,Block A
+1144,Ravi kumar,1370,Block
+1145,Shri pal singh,1371,Block
+1146,Neeraj kumar,1372,Block A
+1147,Anjali Baswan,1405,A
+1147,Anjali Baswan,1406,B
+1148,Bhausaheb Ghule Farm,1374,Block A
+1149,Bhausaheb Kotkar Farm,1375,Block A
+1150,Vikas wale Farm,1376,Block A
+1151,Vishnu Batwal Farm,1377,Block A
+1152,Joginder Kumar,1403,A
+1153,Anil Khatode Farm,1380,Block A
+1154,Prathmesh Sonawane Farm,1382,Block A
+1155,Dhashrath Hase Farm,1383,Block A
+1156,Vishal Hase Farm,1384,Block A
+1157,Dnyaneshwar T Wale Farm,1386,Block A
+1158,Kakasaheb Hase Farm,1387,Block A
+1159,Sangram Khatal Farm,1388,Block A
+1160,Sandesh Khernar Farm,1389,Block A
+1161,Bhausaheb Hase Farm,1390,Block A
+1162,Shivaji Madumasnavar Far,1391,Block A
+1163,Yallappa Madumasnavar Fa,1392,Block A
+1164,Bashavni Madumasnavar Fa,1393,Block A
+1165,Eranna Farm,1398,Block A
+1166,Girwar,1399,Block A
+1167,Pramod,1400,Block A
+1168,Meenakshi,1401,Block A
+1169,Nawal kishor chauhan,1402,Block A
+1170,Vilas Vitthal Wale Farm,1404,A
+1171,Praveen Kumar,1407,Block A
+1172,Mannu farm,1408,Block A
+1173,Shidramaiya Pujeri Farm,1409,Mane hindin hola
+1174,Ashok Madalli Farm,1410,Manemundina hola
+1175,Guroputr Alloshi Farm,1412,banndegat patti
+1176,Praful waman Farm,1414,A
+1177,Nilesh Bhor Farm,1415,A
+1178,Prahlad Singh,1420,A
+1179,Gopale Farm,1423,Block B
+1180,Priyanka Kumari,1424,A
+1181,Santosh devi,1452,A
+1182,Rakesh Kumar,1453,A
+1183,Mallikarjun Farm,1425,Block A
+1184,Maruti Sarvade farm,1426,A
+1185,Popat Hase,1427,A
+1186,Rajendra Amre,1428,A
+1187,Baskar Rahane Farm,1429,A
+1188,Arvind Hase Farm,1430,A
+1189,Nitin chauhan,1431,Block A
+1190,Gyanendra Kumar,1432,Block A
+1191,Asha ram,1435,A
+1192,Rakesh Wakchaur Farm,1436,A
+1193,Ompal,1442,A
+1193,Ompal,1443,B
+1194,Baldev Singh,1444,A
+1195,Manisha Farm,1445,Block A
+1196,Apparao farm,1446,Block S
+1197,Rama Rao farm,1447,Block A
+1197,Rama Rao farm,1448,Block B
+1198,Harasha Ram,1449,A
+1199,Vijay thoarve farm,1450,A
+1200,Neeraj kumar,1454,A
+1201,Tushar wakchaure farm,1455,A
+1202,Shivaji wakchaure farm,1456,A
+1203,Manoj,1458,Block- A
+1204,Sudhir,1459,Block A
+1206,BFM,1460,Plot A
+1206,BFM,1461,Plot 5
